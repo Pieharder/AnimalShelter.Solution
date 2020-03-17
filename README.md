@@ -1,6 +1,6 @@
 # _Animal Shelter_
 
-#### _MySQL & Entity Practice for Epicodus_, _Mar. 17 2020_
+#### _MySQL & Entity Framework Core Practice for Epicodus_, _Mar. 17 2020_
 
 #### By _**Brandan Sayarath, Michelle Morin, Geoff Goetz**_
 
@@ -62,6 +62,7 @@ _To view/edit the source code of this application, open the contents of this dir
 * _MSTest_
 * _MySQL_
 * _MySQL Workbench_
+* _Entity Framework Core_
 
 ### License
 
