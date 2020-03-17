@@ -15,7 +15,7 @@ _This application will allow tracking of current animals in an animal shelter. I
 | Application creates instance of an Animal object | Animal newAnimal = new Animal(type, name, breed, gender, date of admittance) | new Animal object created |
 | Application saves all new animals in database table named animals | new animal object instantiated | new animal object saved as row in database table |
 | If user visits '/' root route, applications displays splash page with link to '/animals' | user visits '/' route | displays homepage |
-| If user visits '/animals' route, applications displays all animals in database, each with a link to view more details about the animal | user visits '/animals' route | displays list of animals |
+| If user visits '/animals' route, applications displays all animals in database, each with a link to view more details about the animal and ordered alphabetically by type | user visits '/animals' route | displays list of animals |
 | If user clicks "add new animal" button, application redirects to new animal form | user clicks "add new animal" button | application redirects to new animal form |
 | If user visits '/animals/new', application shows new animal form | user visits '/animals/new' | application displays form for adding new animal |
 | If user visits submits new animal form, application adds new animal to database and redirects to '/animals' | user submits form | application adds new animal to database and redirects to page showing all animals in database |
