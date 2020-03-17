@@ -56,10 +56,8 @@ _To view/edit the source code of this application, open the contents of this dir
 ## Technologies Used
 * _Git_
 * _C#_
-* _.NET Core 2.2_
 * _ASP.NET Core MVC_
 * _dotnet script_
-* _MSTest_
 * _MySQL_
 * _MySQL Workbench_
 * _Entity Framework Core_
